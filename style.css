@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    margin: 0;
+    background-color: #d9dedd;
+    text-align: center;
+}
+img{
+    max-width: 50%;
+    border-radius: 10px;
+}
+.logo{
+    width: 300px;
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 410px;
+    border-radius: 1000px;
+}
+h1{
+    color: #401c47;
+    text-shadow: 2px 2px 2px rgba(182, 151, 12, 0.4) ;
+}
+input{
+    border-radius: 30px;
+    text-align: center;
+}
